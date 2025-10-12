@@ -28,3 +28,8 @@ print("\nСумма матриц:")
 
 print(matrix_sum)
 
+print("\nТранспонирование матрицы A:")
+
+print(matrix_a.T)
+
+
