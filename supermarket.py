@@ -19,3 +19,5 @@ for item in supermarket:
     total += quantity * price
 
 print(f"Общая стоимость покупки: {total:.2f} €")
+# Добавление от Нади
+print("Удачных Вам покупок!")
