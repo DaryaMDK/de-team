@@ -1,2 +1,5 @@
-def calculate_sum(numbers):
-    return sum(numbers)
+def calculate_sum(a, b):
+    sum = a + b
+    return sum
+
+print(calculate_sum(5, 6))
